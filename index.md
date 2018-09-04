@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+# Why use github?
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 

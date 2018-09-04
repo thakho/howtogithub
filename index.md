@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-# Why use github?
+# Why use Github?
+Github is a usefull tool for team enviroments. 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
